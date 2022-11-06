@@ -4,8 +4,8 @@
 
 | Data | Lezione |
 |------|---------|
-| 24/10/22 | [Prima Lezione](https://www.imdb.com/title/tt3568052/) |
-| 07/11/22 | [Seconda Lezione](https://github.com/CawaAlreadyTaken/NodeJS_Open/tree/main/PrimaLezione) |
+| 24/10/22 | [Prima Lezione](https://github.com/CawaAlreadyTaken/OlimpiadiDaVinci/tree/main/PrimaLezione) |
+| 07/11/22 | [Seconda Lezione](https://github.com/CawaAlreadyTaken/OlimpiadiDaVinci/tree/main/SecondaLezione) |
 | TBD | - |
 | TBD | - |
 | TBD | - |
